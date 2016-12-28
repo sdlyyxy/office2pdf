@@ -96,32 +96,36 @@ namespace HelloWorld{
 				// int pos=file.LastIndexOf('.');
 				string sourcePath=file;
 				if(sourcePath[sourcePath.Length-1]=='f')continue;
-				string _file=file;
+				string _file=_directory+@"\"+file;
 				// _file.Remove(pos);
 				_file+=@".pdf";
+				Console.WriteLine(Directory.Exists(_file));
+				Console.WriteLine(_file);
 				if(Directory.Exists(_file))continue;
 				// Console.Write("Transform ");
 				Console.WriteLine(sourcePath);
 				// Console.WriteLine(" ?");
 				// char c=(char)Console.Read();
 				// if(c!='y')continue;
-				word2pdf(_directory+@"\"+sourcePath,_directory+@"\"+_file);
+				word2pdf(_directory+@"\"+sourcePath,_file);
 			}
 			files=Directory.GetFiles(@".","*.ppt*");
 			foreach(string file in files){
 				// int pos=file.LastIndexOf('.');
 				string sourcePath=file;
-				string _file=file;
+				string _file=_directory+@"\"+file;
 				if(sourcePath[sourcePath.Length-1]=='f')continue;				
 				// _file.Remove(pos);
 				_file+=@".pdf";
+				// Console.WriteLine(Directory.Exists(_file));
+				Console.WriteLine(_file);
 				if(Directory.Exists(_file))continue;
 				// Console.Write("Transform ");
 				Console.WriteLine(sourcePath);
 				// Console.WriteLine(" ?");
 				// char c=(char)Console.Read();
 				// if(c!='y')continue;
-				ppt2pdf(_directory+@"\"+sourcePath,_directory+@"\"+_file);
+				ppt2pdf(_directory+@"\"+sourcePath,_file);
 			}
 		}
 	}
