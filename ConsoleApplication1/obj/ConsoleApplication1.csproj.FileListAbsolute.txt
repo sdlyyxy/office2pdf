@@ -1,0 +1,12 @@
+D:\projects\cs\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\projects\cs\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.ResolveComReference.cache
+D:\projects\cs\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\projects\cs\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\projects\cs\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\projects\cs\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\project\cs\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\project\cs\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\project\cs\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\project\cs\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.ResolveComReference.cache
+D:\project\cs\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\project\cs\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
