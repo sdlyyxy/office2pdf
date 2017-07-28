@@ -9,7 +9,7 @@ using Microsoft.Office.Core;
 using System.Windows.Forms;
 using System.Web;
 
-namespace HelloWorld{
+namespace office2pdf{
 	class Program{
 		static void word2pdf(string sourcePath,string targetPath){
 			// Console.WriteLine("hello..");
