@@ -8,8 +8,8 @@
     <ProjectGuid>{0C6FE1CE-167F-4C59-BB8C-1A211AA3E5E1}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ConsoleApplication1</RootNamespace>
-    <AssemblyName>ConsoleApplication1</AssemblyName>
+    <RootNamespace>office2pdf</RootNamespace>
+    <AssemblyName>office2pdf</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileUpgradeFlags>
     </FileUpgradeFlags>

@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // 有关程序集的常规信息通过下列属性集
 // 控制。更改这些属性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("ConsoleApplication1")]
+[assembly: AssemblyTitle("office2pdf")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ConsoleApplication1")]
-[assembly: AssemblyCopyright("版权所有 (C)  2016")]
+[assembly: AssemblyCompany("sdlyyxy")]
+[assembly: AssemblyProduct("office2pdf")]
+[assembly: AssemblyCopyright("版权所有 (C) sdlyyxy 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
